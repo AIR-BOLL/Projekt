@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.hedring {
+background-image: url(img1.jpg);
+height: 100vh;
+background-repeat: no-repeat;
+background-size: 100%;
+color: white;
+}
+.ver
+{
+    text-align: center;
+    font-size: 30px;
+
+
+}
+.text-o{
+    font-size: 20px;
+}
+.text-p{
+    margin-left: 80px;
+    font-size: 50px;
+}
+.text-deep{
+    font-size: 100px;
+}
+.text{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.foto1{
+    width: 400px;
+}
+.foto2{
+    width: 300px;
+    
+}
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.img2Container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sokl{
+ background-image: url(img3.jpg);
+ height: 500px;
+background-repeat: no-repeat;
+background-size: 100%;
+margin-top: 100px;
+}
+.pp{
+    text-align: center;
+    font-size: 30px;
+
+}
+.oo{
+    text-align: center;
+    
+}
+footer{
+    background-color: y;
+    text-transform: uppercase; 
+}
